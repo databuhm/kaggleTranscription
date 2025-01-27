@@ -1,4 +1,2 @@
 .DS_Store
-*.csv
-/note/input
-*.pdf
+/note/**/input/
